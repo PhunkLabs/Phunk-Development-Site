@@ -1,0 +1,34 @@
+[class*=illustration-] {
+	position: relative;
+
+	&::after {
+		pointer-events: none;
+	}
+}
+
+[class*=illustration-element-]::after {
+	z-index: -1;
+}
+
+[class*=illustration-section-]::after {
+	z-index: -2;
+}
+
+[class*=illustration-section-]::after {
+	z-index: -3;
+}
+
+// Hero illustration
+.illustration-section-01::after {
+	@include illustration('illustration-section-01.svg', 100%, 500px, top);
+}
+
+// Features illustration 02
+.illustration-section-02::after {
+	@include illustration('illustration-section-02.svg', 100%, 1000px,null, 900px, 10px);
+}
+
+// Features illustration 02
+.illustration-section-03::after {
+	@include illustration('illustration-section-03.svg', 100%, 650px,10px, -780px, -700px);
+}

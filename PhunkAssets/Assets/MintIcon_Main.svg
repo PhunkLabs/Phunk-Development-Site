@@ -1,0 +1,49 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.32 33.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d85226;
+      }
+
+      .cls-2 {
+        font-size: 20.05px;
+        fill: #101e32;
+        font-family: PraterSansPro-Bold, Prater Sans Pro;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.07em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0.07em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.08em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.08em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.06em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0.09em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0.07em;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-1" x="0.32" y="0.27" width="144" height="33.34"/>
+    <text class="cls-2" transform="translate(10.42 25.27)">MI<tspan class="cls-3" x="25.91" y="0">N</tspan><tspan class="cls-4" x="40.84" y="0">T </tspan><tspan class="cls-5" x="61.86" y="0">Y</tspan><tspan class="cls-6" x="76.69" y="0">O</tspan><tspan class="cls-7" x="90.23" y="0">U</tspan><tspan class="cls-8" x="102.93" y="0">R</tspan><tspan class="cls-9" x="116.76" y="0">S</tspan></text>
+  </g>
+</svg>
