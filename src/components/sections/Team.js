@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                   Giutela
                     </h4>
                   <p className="m-0 text-sm  tk-parisine-std-compress">
-                  Artist
+                  Collection Artist
                   </p>
                 </div>
               </div>
@@ -85,7 +85,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-02.svg')}
+                      src={require('./../../assets/images/tooty.png')}
                       alt="Features tile icon 02"
                       width={64}
                       height={64} />
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     BenJ
                     </h4>
                   <p className="m-0 text-sm  tk-parisine-std-compress">
-                   Project Lead
+                   Project Manager
                   </p>
                 </div>
               </div>
@@ -129,7 +129,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-03.svg')}
+                      src={require('./../../assets/images/bean.png')}
                       alt="Features tile icon 03"
                       width={64}
                       height={64} />
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                     SavJack
                     </h4>
                   <p className="m-0 text-sm  tk-parisine-std-compress">
-                   The best ever
+                   Art Director
                   </p>
                 </div>
               </div>
@@ -163,7 +163,7 @@ const FeaturesTiles = ({
                     Squlld_1
                     </h4>
                   <p className="m-0 text-sm  tk-parisine-std-compress">
-                   Marketing
+                   Head of Marketing
                   </p>
                 </div>
               </div>
