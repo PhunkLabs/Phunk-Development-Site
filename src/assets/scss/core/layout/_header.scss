@@ -85,6 +85,31 @@
 	display: none;
 }
 
+a {
+	padding: $footer-social--inner-padding;
+
+	svg {
+		fill: color-icon(social);
+		transition: fill .15s ease;
+
+		.invert-color & {
+			fill: color-icon(social-inverse);
+		}
+	}
+
+	&:hover {
+
+		svg {
+			fill: color-icon(social-hover);
+
+			.invert-color & {
+				fill: color-icon(social-hover-inverse);
+			}
+		}
+	}
+}
+
+
 @include media( '<=medium' ) {
 
 	.header-nav-toggle {
