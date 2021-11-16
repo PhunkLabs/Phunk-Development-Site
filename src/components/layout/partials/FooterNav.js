@@ -18,18 +18,8 @@ const FooterNav = ({
       className={classes}
     >
       <ul className="list-reset">
-        <li>
-          <Link to="#0">Home</Link>
-        </li>
-        <li>
-          <Link to="#0">About us</Link>
-        </li>
-        <li>
-          <Link to="#0">Rarity</Link>
-        </li>
-        <li>
-          <Link to="#0">Mint</Link>
-        </li>
+
+
       </ul>
     </nav>
   );

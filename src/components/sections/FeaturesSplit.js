@@ -67,7 +67,7 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Bubble Duke
+                  
                   </div>
                 <h3 className="mt-0 mb-12">
                   Who are we?  
@@ -92,7 +92,7 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Bubble Whitney
+                 
                   </div>
                 <h3 className="mt-0 mb-12">
                   Why mint us?
@@ -117,7 +117,7 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Waylon
+                  
                   </div>
                 <h3 className="mt-0 mb-12">
                   Tech Specs
@@ -142,7 +142,7 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                B.I.G
+                
                   </div>
                 <h3 className="mt-0 mb-12">
                   To do list 

@@ -75,7 +75,7 @@ const Hero = ({
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
   
-                  <Button tag="a" color="secondary" wideMobile href="https://github.com/cruip/open-react-template/">
+                  <Button tag="a" color="secondary" wideMobile href="https://cold-disk-6619.on.fleek.co">
                     Mint Yours
                     </Button>
                 </ButtonGroup>
