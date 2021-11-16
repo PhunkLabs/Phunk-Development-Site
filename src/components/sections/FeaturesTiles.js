@@ -63,15 +63,15 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-01.svg')}
+                      src={require('./../../assets/images/Icon_Backstory.svg')}
                       alt="Features tile icon 01"
-                      width={64}
+                      width={120}
                       height={64} />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                  PERSONALITIES
+                  Backstories
                     </h4>
                   <p className="m-0 text-sm tk-parisine-std-compress">
                   Each Animal Phunk has it’s own set 
@@ -86,9 +86,9 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-02.svg')}
+                      src={require('./../../assets/images/Icon_DNA.svg')}
                       alt="Features tile icon 02"
-                      width={64}
+                      width={120}
                       height={64} />
                   </div>
                 </div>
@@ -109,9 +109,9 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-03.svg')}
+                      src={require('./../../assets/images/Icon_Art.svg')}
                       alt="Features tile icon 03"
-                      width={64}
+                      width={120}
                       height={64} />
                   </div>
                 </div>
