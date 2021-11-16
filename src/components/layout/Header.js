@@ -4,6 +4,7 @@ import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import Logo from './partials/Logo';
 import Image from '../elements/Image';
+import Button from '../elements/Button';
 const propTypes = {
   navPosition: PropTypes.string,
   hideNav: PropTypes.bool,
@@ -206,7 +207,7 @@ const Header = ({
                     >
 
                       <li>
-                        <Link to="https://cold-disk-6619.on.fleek.co" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Mint!</Link>
+                      <Button tag="a" color="primary" wideMobile href="https://cold-disk-6619.on.fleek.co" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Mint!</Button>
                       </li>
                     </ul>}
                 </div>
