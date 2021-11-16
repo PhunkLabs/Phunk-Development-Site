@@ -1,7 +1,8 @@
 {
-  "name": "open-react-template",
+  "name": "AnimalPhunks",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "all": "0.0.0",
     "classnames": "^2.2.6",
@@ -13,11 +14,12 @@
     "react-ga": "^2.7.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.1",
-    "serve": "^13.0.2"
+    "serve": "^13.0.2",
+    "yarn": "^1.22.17"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url": "https://github.com/PhunkLabs/Phunk-Development-Site.git"
   },
   "scripts": {
     "start": "react-scripts start",
