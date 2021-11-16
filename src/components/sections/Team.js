@@ -65,7 +65,7 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/Giveaway.png')}
                       alt="Features tile icon 01"
-                      width={64}
+                      width={80}
                       height={64} />
                   </div>
                 </div>
@@ -87,7 +87,7 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/tooty.png')}
                       alt="Features tile icon 02"
-                      width={64}
+                      width={80}
                       height={64} />
                   </div>
                 </div>
@@ -109,7 +109,7 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/Giveaway.png')}
                       alt="Features tile icon 03"
-                      width={64}
+                      width={80}
                       height={64} />
                   </div>
                 </div>
@@ -131,7 +131,7 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/bean.png')}
                       alt="Features tile icon 03"
-                      width={64}
+                      width={80}
                       height={64} />
                   </div>
                 </div>
@@ -154,7 +154,7 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/Giveaway.png')}
                       alt="Features tile icon 03"
-                      width={64}
+                      width={80}
                       height={64} />
                   </div>
                 </div>
@@ -177,7 +177,7 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/Giveaway.png')}
                       alt="Features tile icon 03"
-                      width={64}
+                      width={80}
                       height={64} />
                   </div>
                 </div>
