@@ -137,7 +137,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    SavJack
+                    Bean
                     </h4>
                   <p className="m-0 text-sm  tk-parisine-std-compress">
                    Art Director
