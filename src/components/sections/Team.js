@@ -129,7 +129,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/bean.png')}
+                      src={require('./../../assets/images/bean.jpg')}
                       alt="Features tile icon 03"
                       width={80}
                       height={64} />
@@ -175,7 +175,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/Giveaway.png')}
+                      src={require('./../../assets/images/atsar.png')}
                       alt="Features tile icon 03"
                       width={80}
                       height={64} />
@@ -183,10 +183,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    TheKraken
+                    Atsar
                     </h4>
                   <p className="m-0 text-sm  tk-parisine-std-compress">
-                   Developer 
+                   Head of R&D 
                   </p>
                 </div>
               </div>
